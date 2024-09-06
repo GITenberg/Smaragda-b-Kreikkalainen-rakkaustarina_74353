@@ -1,0 +1,30 @@
+_repo: Smaragda-b-Kreikkalainen-rakkaustarina_74353
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Uskela, Kaarlo
+    gutenberg_agent_id: '57463'
+    url: http://www.gutenberg.org/2009/agents/57463
+creator:
+  author:
+    agent_name: Rangabé, A. R.
+    gutenberg_agent_id: '57462'
+    url: http://www.gutenberg.org/2009/agents/57462
+description: ''
+gutenberg_issued: '2024-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74353'
+language: fi
+pgterms:marc905: 20240827125724rangab
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Smaragda : $b Kreikkalainen rakkaustarina'
+url: http://www.gutenberg.org/ebooks/74353
