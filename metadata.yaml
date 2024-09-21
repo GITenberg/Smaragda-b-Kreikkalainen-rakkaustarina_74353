@@ -5,12 +5,17 @@ contributor:
     agent_name: Uskela, Kaarlo
     gutenberg_agent_id: '57463'
     url: http://www.gutenberg.org/2009/agents/57463
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rangabé, A. R.
     gutenberg_agent_id: '57462'
     url: http://www.gutenberg.org/2009/agents/57462
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74353#Smaragda-b-Kreikkalainen-rakkaustarina
 gutenberg_issued: '2024-09-02'
 gutenberg_type: Text
 identifiers:
